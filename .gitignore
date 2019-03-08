@@ -1,0 +1,8 @@
+vendor/
+vendor.pb/
+
+.vscode/
+
+todo.list
+
+*.json
