@@ -3,6 +3,8 @@ vendor.pb/
 
 .vscode/
 
+bin/
+
 todo.list
 
 *.json
